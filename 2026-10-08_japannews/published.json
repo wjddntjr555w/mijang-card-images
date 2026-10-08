@@ -1,12 +1,15 @@
 {
   "account": "japannews",
   "key": "2026-10-08",
-  "published_at": "2026-10-08T20:31:48",
-  "media_id": "18135244087657025",
-  "permalink": "https://www.instagram.com/p/DePzGIPmVE1/",
+  "published_at": "2026-10-08T21:40:39",
+  "media_id": "17992117016851766",
+  "permalink": "https://www.instagram.com/p/DeP6-m1iaMD/",
   "cards": [
     "01_japan.png",
     "02_digest.png",
-    "03_quiz.png"
+    "03_digest.png",
+    "04_digest.png",
+    "05_quiz.png",
+    "06_quiz.png"
   ]
 }
