@@ -1,0 +1,20 @@
+{
+  "account": "japannews",
+  "key": "2026-10-10",
+  "published_at": "2026-10-10T20:32:02",
+  "media_id": "17971069845171051",
+  "permalink": "https://www.instagram.com/p/DeU8txkmuuF/",
+  "cards": [
+    "01_japan.png",
+    "02_digest.png",
+    "03_digest.png",
+    "04_digest.png",
+    "05_quiz.png",
+    "06_quiz.png"
+  ],
+  "sources": [
+    "https://www.gov-online.go.jp/article/202610/tv-6639.html",
+    "https://www.mlit.go.jp/report/press/tochi_fudousan_kensetsugyo14_hh_000001_00378.html",
+    "https://www.mlit.go.jp/report/press/tochi_fudousan_kensetsugyo17_hh_000001_00090.html"
+  ]
+}
