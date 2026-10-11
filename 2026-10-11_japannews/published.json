@@ -1,0 +1,20 @@
+{
+  "account": "japannews",
+  "key": "2026-10-11",
+  "published_at": "2026-10-11T20:32:01",
+  "media_id": "17939285670384642",
+  "permalink": "https://www.instagram.com/p/DeXhgYZm65y/",
+  "cards": [
+    "01_japan.png",
+    "02_digest.png",
+    "03_digest.png",
+    "04_digest.png",
+    "05_quiz.png",
+    "06_quiz.png"
+  ],
+  "sources": [
+    "https://www.gov-online.go.jp/media/commercials/202610/video-326005.html",
+    "https://www.fsa.go.jp/ordinary/chuui/chuui_phishing.html",
+    "https://www.mlit.go.jp/report/press/mizukokudo06_hh_000364.html"
+  ]
+}
