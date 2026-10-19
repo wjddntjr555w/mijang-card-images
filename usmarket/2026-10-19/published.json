@@ -1,0 +1,23 @@
+{
+  "account": "usmarket",
+  "key": "2026-10-19",
+  "published_at": "2026-10-19T20:16:31",
+  "media_id": "18117171470081126",
+  "permalink": "https://www.instagram.com/p/DesGCkxFFPI/",
+  "cards": [
+    "01_market.png",
+    "02_news.png",
+    "03_news.png",
+    "04_news.png",
+    "05_news.png"
+  ],
+  "sources": [
+    "https://biz.sbs.co.kr/article_hub/20000340884?division=NAVER",
+    "https://www.fnnews.com/news/202610200255138041",
+    "https://biz.sbs.co.kr/article_hub/20000340876?division=NAVER",
+    "https://www.mediapen.com/news/view/1131088"
+  ],
+  "api_usage": {
+    "x-app-usage": "{\"call_volume\":0,\"cpu_time\":0}"
+  }
+}
