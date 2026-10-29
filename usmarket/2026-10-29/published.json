@@ -1,0 +1,25 @@
+{
+  "account": "usmarket",
+  "key": "2026-10-29",
+  "published_at": "2026-10-29T20:18:50",
+  "media_id": "18079932728758261",
+  "permalink": "https://www.instagram.com/p/DfF2QBym850/",
+  "cards": [
+    "01_market.png",
+    "02_news.png",
+    "03_news.png",
+    "04_news.png",
+    "05_news.png",
+    "06_chart.png"
+  ],
+  "sources": [
+    "https://www.edaily.co.kr/News/Read?newsId=01849926645618168&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+    "https://www.newsis.com/view/NISX20261029_0003847099",
+    "https://view.asiae.co.kr/article/2026102908285410082",
+    "https://www.mt.co.kr/world/2026/10/30/2026103005073471990",
+    "https://www.newspim.com/news/view/20261030000026"
+  ],
+  "api_usage": {
+    "x-app-usage": "{\"call_volume\":0,\"cpu_time\":0}"
+  }
+}
