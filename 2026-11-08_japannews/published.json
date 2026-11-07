@@ -1,0 +1,19 @@
+{
+  "account": "japanlesson",
+  "key": "2026-11-08",
+  "published_at": "2026-11-07T20:58:17",
+  "media_id": "17871044448661266",
+  "permalink": "https://www.instagram.com/p/DfdF6x4m48N/",
+  "cards": [
+    "01_cover.png",
+    "02_read.png",
+    "03_swap.png",
+    "04_review.png"
+  ],
+  "sources": [
+    "https://www.mhlw.go.jp/stf/newpage_77180.html"
+  ],
+  "api_usage": {
+    "x-app-usage": "{\"call_volume\":0,\"cpu_time\":0}"
+  }
+}
