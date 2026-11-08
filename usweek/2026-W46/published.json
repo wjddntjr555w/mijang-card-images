@@ -1,0 +1,19 @@
+{
+  "account": "usweek",
+  "key": "2026-W46",
+  "published_at": "2026-11-08T07:53:59",
+  "media_id": "18015353918973287",
+  "permalink": "https://www.instagram.com/p/DfeRBFYkSw0/",
+  "cards": [
+    "01_schedule.png",
+    "02_news.png",
+    "03_news.png"
+  ],
+  "sources": [
+    "https://www.viva100.com/article/20261107500018",
+    "https://www.businesspost.co.kr/BP?command=article_view&num=451430"
+  ],
+  "api_usage": {
+    "x-app-usage": "{\"call_volume\":0,\"cpu_time\":0}"
+  }
+}
