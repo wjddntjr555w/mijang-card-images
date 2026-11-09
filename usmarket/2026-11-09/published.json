@@ -1,0 +1,25 @@
+{
+  "account": "usmarket",
+  "key": "2026-11-09",
+  "published_at": "2026-11-09T21:19:39",
+  "media_id": "17871118389658962",
+  "permalink": "https://www.instagram.com/p/DfiSAcro-Cv/",
+  "cards": [
+    "01_market.png",
+    "02_news.png",
+    "03_chart.png",
+    "04_news.png",
+    "05_news.png",
+    "06_story.png"
+  ],
+  "sources": [
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4443838",
+    "https://news.sbs.co.kr/news/endPage.do?news_id=N1008838119&plink=ORI&cooper=NAVER",
+    "https://news.einfomax.co.kr/news/articleView.html?idxno=4443827",
+    "https://www.news1.kr/world/international-economy/6348367",
+    "https://www.munhwa.com/article/11630041?ref=naver"
+  ],
+  "api_usage": {
+    "x-app-usage": "{\"call_volume\":0,\"cpu_time\":0}"
+  }
+}
