@@ -1,0 +1,25 @@
+{
+  "account": "usmarket",
+  "key": "2026-11-20",
+  "published_at": "2026-11-20T21:14:52",
+  "media_id": "18115212731233915",
+  "permalink": "https://www.instagram.com/p/Df-mNerGe2E/",
+  "cards": [
+    "01_market.png",
+    "02_news.png",
+    "03_story.png",
+    "04_chart.png",
+    "05_chart.png",
+    "06_story.png"
+  ],
+  "sources": [
+    "https://www.yna.co.kr/view/AKR20261121009200072?input=1195m",
+    "https://www.ytn.co.kr/_ln/0104_202611210400360984",
+    "https://www.mediapen.com/news/view/1138963",
+    "https://www.etoday.co.kr/news/view/2651145",
+    "https://www.fnnews.com/news/202611201430047494"
+  ],
+  "api_usage": {
+    "x-app-usage": "{\"call_volume\":0,\"cpu_time\":0}"
+  }
+}
