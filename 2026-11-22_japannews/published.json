@@ -1,0 +1,19 @@
+{
+  "account": "japanlesson",
+  "key": "2026-11-22",
+  "published_at": "2026-11-21T20:51:14",
+  "media_id": "18103381931532950",
+  "permalink": "https://www.instagram.com/p/DgBITEaGsIK/",
+  "cards": [
+    "01_cover.png",
+    "02_read.png",
+    "03_swap.png",
+    "04_review.png"
+  ],
+  "sources": [
+    "https://www.gov-online.go.jp/article/202412/entry-6907.html"
+  ],
+  "api_usage": {
+    "x-app-usage": "{\"call_volume\":0,\"cpu_time\":0}"
+  }
+}
