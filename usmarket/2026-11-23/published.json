@@ -1,0 +1,21 @@
+{
+  "account": "usmarket",
+  "key": "2026-11-23",
+  "published_at": "2026-11-23T21:18:54",
+  "media_id": "18094244696295223",
+  "permalink": "https://www.instagram.com/p/DgGVDkoj3Fm/",
+  "cards": [
+    "01_market.png",
+    "02_news.png",
+    "03_news.png",
+    "04_chart.png"
+  ],
+  "sources": [
+    "https://www.news1.kr/world/usa-canada/6363506",
+    "https://www.jemin.com/news/articleView.html?idxno=848239",
+    "http://www.beyondpost.co.kr/view.php?ud=2026112405573755242aaae0046f_30"
+  ],
+  "api_usage": {
+    "x-app-usage": "{\"call_volume\":0,\"cpu_time\":0}"
+  }
+}
