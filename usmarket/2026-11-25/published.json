@@ -1,0 +1,27 @@
+{
+  "account": "usmarket",
+  "key": "2026-11-25",
+  "published_at": "2026-11-25T21:14:54",
+  "media_id": "17892374538475455",
+  "permalink": "https://www.instagram.com/p/DgLeL2OFYLG/",
+  "cards": [
+    "01_market.png",
+    "02_news.png",
+    "03_news.png",
+    "04_news.png",
+    "05_news.png",
+    "06_news.png",
+    "07_news.png"
+  ],
+  "sources": [
+    "https://www.edaily.co.kr/News/Read?newsId=01298886645649656&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+    "https://www.joongang.co.kr/article/25482001",
+    "https://www.g-enews.com/view.php?ud=2026112520263740949a1f309431_1",
+    "https://www.newspim.com/news/view/20261126000031",
+    "https://biz.sbs.co.kr/article_hub/20000348925?division=NAVER",
+    "https://www.joongang.co.kr/article/25482067"
+  ],
+  "api_usage": {
+    "x-app-usage": "{\"call_volume\":0,\"cpu_time\":0}"
+  }
+}
